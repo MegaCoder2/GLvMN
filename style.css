@@ -1,0 +1,16 @@
+body
+{
+    background-color: skyblue;
+}
+.footer
+{
+    width: 100%;
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+}
+.test_image_and_result
+{
+    background-color: gray;
+    border-radius: 3px;
+}
